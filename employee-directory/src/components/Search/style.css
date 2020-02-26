@@ -1,0 +1,12 @@
+.btn{
+    color: red;
+    border-color: red;
+    font-family: 'Oswald';
+}
+
+.form-control{
+    border-color: red;
+    margin-left: 40%;
+    font-family: 'Oswald';
+}
+
